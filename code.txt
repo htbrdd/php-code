@@ -1,0 +1,5 @@
+<p style="text-align:center">
+<a href="google.com"  target="_blank"><img src="https://www.animaker.com/hub/wp-content/uploads/2019/06/youtube-banner-size.png" border="0"></a><br>
+</p>
+
+Code to add link with image align center.
